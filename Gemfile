@@ -6,6 +6,6 @@ gem "hashie"
 gem "octokit", '~> 2.0'
 
 
-group :development, :test do
+group :test do
   gem "pry"
 end
